@@ -21,6 +21,6 @@ Empatia | Controladoria
 Hadapitabilidade | Planilhas
 Motivador | Inglês
 
-## ✨Desafio Nível do herói
+## ✨Desafio Rank do herói
 
 Nesse novo desafio criei uma calculadora de nível de ranque para um player, usei da ferramenta de function e dos operadores condicionais if e else if!
